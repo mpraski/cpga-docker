@@ -1,3 +1,3 @@
 #!/bin/bash
 
-docker build --tag=$1 .
+docker build --tag=genetic-runner .
