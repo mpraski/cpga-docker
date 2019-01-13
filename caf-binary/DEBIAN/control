@@ -1,0 +1,6 @@
+Package: caf-binary
+Version: 0.1
+Maintainer: Marcin Praski
+Architecture: amd64
+Description: Binary distribution of C++ Actor Framework 0.16.3
+Section: libs
